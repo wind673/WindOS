@@ -14,7 +14,7 @@
 2017/10/16	WindOS3.2.01		细节上的优化调整		Wind （谢玉伸）
 2017/10/16	WindOS3.2.02		修复OS_Run.c的BUG 		Wind （谢玉伸）
 2017/11/03	WindOS3.3.01		重大更新				Wind （谢玉伸）
-2017/11/03	WindOS3.3.04		chipID添加F4支持		Teemo（陈晓东）
+2017/04/14	WindOS3.3.04		chipID添加F4支持		Teemo（陈晓东）
 
 最后修订：
 1.chipID添加F4支持 
